@@ -1,5 +1,5 @@
 # networkwalks-B082-week4-Capstone-Project
-## Penetration Testing report for Mediroza General Hospital
+## Penetration Testing Report for Mediroza General Hospital
 
 ### Web Application Security Assessment
 
