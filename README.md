@@ -102,9 +102,9 @@ Moreover, this lab made it easier for me to comprehend how password cracking wor
 ### _Milestone 2 successfully achieved._
 
 ### Confidential Staff Salaries and Shareholder Data in Plain Text 
-<img width="634" height="255" alt="image" src="https://github.com/user-attachments/assets/25a26b0d-d070-4b18-bad0-3daf62325a8f" />
- <br><br>
 <img width="560" height="632" alt="image" src="https://github.com/user-attachments/assets/ad3a3aeb-bfcf-4f96-a64b-4f6c37642f0d" />
+<br><br>
+<img width="634" height="255" alt="image" src="https://github.com/user-attachments/assets/25a26b0d-d070-4b18-bad0-3daf62325a8f" />
 
 ### _Milestone 3 successfully achieved._
 
