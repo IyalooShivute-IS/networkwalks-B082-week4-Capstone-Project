@@ -72,7 +72,7 @@ I identified the following vulnerabilities based on the data gathered during rec
 <img width="1180" height="328" alt="image" src="https://github.com/user-attachments/assets/55536166-3483-48e1-909e-b0e52d8a8c27" />
 
 
-**_The detailed Report for Week 4: Penetration Testing for Mediroza General Hospital is attached in the repository_**. 
+### _The detailed Report for Week 4: Penetration Testing for Mediroza General Hospital is attached in the repository_. 
 
 ## 📌 6. Conclusion
 A full attack chain from the login page to extremely sensitive internal data was discovered during this assessment. There was no need for advanced tool or expertise. Every vulnerability identified in this research is well-known and has established remedies. Before the system is utilized to store or provide actual patient data, I recommend the client to address all Critical and High findings immediately.
