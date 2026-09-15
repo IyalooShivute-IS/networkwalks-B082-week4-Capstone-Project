@@ -1,7 +1,7 @@
 # networkwalks-B082-week4-Capstone-Project
-Penetration report for Mediroza General Hospital
+## Penetration Testing report for Mediroza General Hospital
 
-# WEB APPLICATION SECURITY ASSESSMENT
+### Web Application Security Assessment
 
 <div align="center">
 
@@ -72,11 +72,12 @@ I identified the following vulnerabilities based on the data gathered during rec
 <img width="1180" height="328" alt="image" src="https://github.com/user-attachments/assets/55536166-3483-48e1-909e-b0e52d8a8c27" />
 
 
-**_The detailed report of Week 4: Penetration Testing for Mediroza General Hospital_**. 
+**_The detailed Report for Week 4: Penetration Testing for Mediroza General Hospital is attached in the repository_**. 
 
 ## 📌 6. Conclusion
+A full attack chain from the login page to extremely sensitive internal data was discovered during this assessment. There was no need for advanced tool or expertise. Every vulnerability identified in this research is well-known and has established remedies. Before the system is utilized to store or provide actual patient data, I recommend the client to address all Critical and High findings immediately.
 
-This lab helped me understand how password cracking works step by step and why it is important to use strong passwords for protection.  I also learned that if a password is short or common, it can be found quickly, which proves the need for strong passwords.
+Moreover, this lab made it easier for me to comprehend how password cracking works and why it's crucial to use strong passwords for security. I also discovered that short or common passwords are easily cracked, which further highlights the need for strong passwords.
 
 
 ## 📌 7. Evidences
