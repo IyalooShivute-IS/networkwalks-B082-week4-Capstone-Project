@@ -84,11 +84,11 @@ Moreover, this lab made it easier for me to comprehend how password cracking wor
 ### _Logged in into the patient portal_
 <img width="1050" height="560" alt="image" src="https://github.com/user-attachments/assets/e1b422cf-533c-4409-8c69-482890d5e13a" />
 
-## _Milestone 1 successfully achieved._
+### _Milestone 1 successfully achieved._
 
 <img width="479" height="342" alt="image" src="https://github.com/user-attachments/assets/5bd507d1-4d9f-4a9d-ae63-aea99814dab0" />
 
-_Downloaded the three PDF files with patient records._
+**_Downloaded the three PDF files with patient records._**
 
 ### _Results for patient_report_1.pdf
 <img width="602" height="377" alt="image" src="https://github.com/user-attachments/assets/664df2ea-90d8-467d-a6e6-ad10d0ea5bac" />
@@ -99,13 +99,13 @@ _Downloaded the three PDF files with patient records._
 ### _Results for patient_report_3.pdf
 <img width="602" height="360" alt="image" src="https://github.com/user-attachments/assets/eb04c724-546d-417c-ae1f-12d9cfb8eae6" />
 
-## _Milestone 2 successfully achieved._
+### _Milestone 2 successfully achieved._
 
 <img width="634" height="255" alt="image" src="https://github.com/user-attachments/assets/25a26b0d-d070-4b18-bad0-3daf62325a8f" />
 
 <img width="560" height="632" alt="image" src="https://github.com/user-attachments/assets/ad3a3aeb-bfcf-4f96-a64b-4f6c37642f0d" />
 
-## _Milestone 3 successfully achieved._
+### _Milestone 3 successfully achieved._
 
 <br><br>
 ### 👤 Submitted by: Iyaloo Shivute
