@@ -100,7 +100,6 @@ Moreover, this lab made it easier for me to comprehend how password cracking wor
 <img width="602" height="360" alt="image" src="https://github.com/user-attachments/assets/eb04c724-546d-417c-ae1f-12d9cfb8eae6" />
 
 ### _Milestone 2 successfully achieved._
- <br><br>
 
 ### Confidential Staff Salaries and Shareholder Data in Plain Text 
 <img width="634" height="255" alt="image" src="https://github.com/user-attachments/assets/25a26b0d-d070-4b18-bad0-3daf62325a8f" />
