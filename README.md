@@ -27,10 +27,10 @@ As agreed, upon with the client, the assessment was restricted to the following 
 The Social engineering, denial-of-service attacks, and any testing outside the designated domain were not included in the scope.
 
 ### 2.2  Methodology
-**I used a four-phase, organized black-box penetration testing process.**
-	**Reconnaissance:** Passive information collection using web-based resources and publicly accessible data.
-	**Vulnerability Identification:** Examining the behavior of the program to identify input handling and authentication flaws.
-	**Exploitation:** Using controlled exploitation to show the true impact of each vulnerability.
+**I used a four-phase, organized black-box penetration testing process.** <br><br>
+	**Reconnaissance:** Passive information collection using web-based resources and publicly accessible data. <br><br> 
+	**Vulnerability Identification:** Examining the behavior of the program to identify input handling and authentication flaws.<br><br>
+	**Exploitation:** Using controlled exploitation to show the true impact of each vulnerability.<br><br>
 	**Documentation:** Including all conclusions, supporting data, and recommendations for corrective action in this report.
 
 
